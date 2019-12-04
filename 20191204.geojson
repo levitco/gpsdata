@@ -1,0 +1,13 @@
+{"type": "FeatureCollection","features": [
+{"type": "Feature","properties":{"time":"2019-12-04T23:29:55.746Z","provider":"network","time_long":1575502195746,"accuracy":20.0,"altitude":0.0,"bearing":0.0,"speed":0.0},"geometry":{"type":"Point","coordinates":[-89.6610441,21.2848399]}}
+,{"type": "Feature","properties":{"time":"2019-12-04T23:31:16.667Z","provider":"network","time_long":1575502276667,"accuracy":20.0,"altitude":0.0,"bearing":0.0,"speed":0.0},"geometry":{"type":"Point","coordinates":[-89.6610441,21.2848399]}}
+,{"type": "Feature","properties":{"time":"2019-12-04T23:32:37.829Z","provider":"network","time_long":1575502357829,"accuracy":20.0,"altitude":0.0,"bearing":0.0,"speed":0.0},"geometry":{"type":"Point","coordinates":[-89.6610441,21.2848399]}}
+,{"type": "Feature","properties":{"time":"2019-12-04T23:34:12.000Z","provider":"gps","time_long":1575502452000,"accuracy":35.0,"altitude":8.0,"bearing":35.8,"speed":1.16},"geometry":{"type":"Point","coordinates":[-89.66117974,21.28481737]}}
+,{"type": "Feature","properties":{"time":"2019-12-04T23:35:23.138Z","provider":"network","time_long":1575502523138,"accuracy":20.0,"altitude":0.0,"bearing":0.0,"speed":0.0},"geometry":{"type":"Point","coordinates":[-89.6610441,21.2848399]}}
+,{"type": "Feature","properties":{"time":"2019-12-04T23:39:43.051Z","provider":"network","time_long":1575502783051,"accuracy":20.0,"altitude":0.0,"bearing":0.0,"speed":0.0},"geometry":{"type":"Point","coordinates":[-89.6610441,21.2848399]}}
+,{"type": "Feature","properties":{"time":"2019-12-04T23:41:04.672Z","provider":"network","time_long":1575502864672,"accuracy":20.0,"altitude":0.0,"bearing":0.0,"speed":0.0},"geometry":{"type":"Point","coordinates":[-89.6610441,21.2848399]}}
+,{"type": "Feature","properties":{"time":"2019-12-04T23:42:25.801Z","provider":"network","time_long":1575502945801,"accuracy":21.073,"altitude":0.0,"bearing":0.0,"speed":0.0},"geometry":{"type":"Point","coordinates":[-89.6610426,21.2848343]}}
+,{"type": "Feature","properties":{"time":"2019-12-04T23:43:47.061Z","provider":"network","time_long":1575503027061,"accuracy":21.121,"altitude":0.0,"bearing":0.0,"speed":0.0},"geometry":{"type":"Point","coordinates":[-89.6610511,21.2848375]}}
+,{"type": "Feature","properties":{"time":"2019-12-04T23:45:05.001Z","provider":"network","time_long":1575503105001,"accuracy":20.0,"altitude":0.0,"bearing":0.0,"speed":0.0},"geometry":{"type":"Point","coordinates":[-89.6610441,21.2848399]}}
+,{"type": "Feature","properties":{"time":"2019-12-04T23:46:18.000Z","provider":"gps","time_long":1575503178000,"accuracy":29.0,"altitude":-1.0,"speed":0.0},"geometry":{"type":"Point","coordinates":[-89.66126998,21.2848067]}}
+]}
