@@ -1,0 +1,5 @@
+{"type": "FeatureCollection","features": [
+{"type": "Feature","properties":{"time":"2019-12-05T00:19:25.970Z","provider":"network","time_long":1575505165970,"accuracy":22.709,"altitude":0.0,"bearing":0.0,"speed":0.0},"geometry":{"type":"Point","coordinates":[-89.6610595,21.2849121]}}
+,{"type": "Feature","properties":{"time":"2019-12-05T00:20:52.569Z","provider":"network","time_long":1575505252569,"accuracy":21.249,"altitude":0.0,"bearing":0.0,"speed":0.0},"geometry":{"type":"Point","coordinates":[-89.6610465,21.2848479]}}
+,{"type": "Feature","properties":{"time":"2019-12-05T00:22:18.000Z","provider":"gps","time_long":1575505338000,"accuracy":22.0,"altitude":-15.0,"speed":0.0},"geometry":{"type":"Point","coordinates":[-89.66113406,21.28468592]}}
+]}
